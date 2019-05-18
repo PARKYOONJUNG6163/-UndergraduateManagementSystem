@@ -1,1 +1,1 @@
-# -UndergraduateManagementSystem
+# UndergraduateManagementSystem
